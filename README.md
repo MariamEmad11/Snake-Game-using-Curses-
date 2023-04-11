@@ -32,3 +32,10 @@ Here is how the game works:
 
 
 Overall, this is a fun and straightforward game that demonstrates how to use the curses library to create a game in Python.
+
+
+
+
+https://user-images.githubusercontent.com/88942103/231110568-32a4fa9a-ae95-4703-adde-a6a7f4ed15b7.mp4
+
+
