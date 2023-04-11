@@ -1,14 +1,16 @@
 # Snake-Game-using-Curses- 
+/n
 https://replit.com/@MariamEmad11/Snakegame#main.py 
+/n
 This is a simple snake game implemented in Python using the curses library. The game creates a window and allows the player to move the snake around to eat food and grow longer. The game loop continues until the player loses or quits.
 
 ![Snake-Game-in-py](https://user-images.githubusercontent.com/88942103/231101708-d74a6072-0412-477d-a8be-076ace3b9d71.jpg)  
 
 Here is how the game works:
 
-1-The game initiates the curses library to create the screen and hides the mouse.
-2-The maximum screen size (height and width) is retrieved using the getmaxyx function and assigned to screen_hight and screen_width.
-3-A new window is created using the newwin function and keypad is enabled to allow input from the keyboard.
+1-The game initiates the curses library to create the screen and hides the mouse./n
+2-The maximum screen size (height and width) is retrieved using the getmaxyx function and assigned to screen_hight and screen_width./n
+3-A new window is created using the newwin function and keypad is enabled to allow input from the keyboard./n
 4-The initial position of the snake is defined using snake_x and snake_y.
 5-The initial position of the snake body is defined as an array containing three coordinates: the head, body, and tail.
 6-A food object is created in the center of the screen.
