@@ -1,4 +1,4 @@
-# Snake-Game-using-Curses- 
+# Snake-Game-using-Curses
 
 https://replit.com/@MariamEmad11/Snakegame#main.py 
 
